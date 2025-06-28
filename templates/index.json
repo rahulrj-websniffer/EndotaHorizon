@@ -6,7 +6,8 @@
  * or related systems. Please exercise caution as any changes
  * made to this file may be overwritten.
  * ------------------------------------------------------------
- */{
+ */
+{
   "sections": {
     "hero_jVaWmY": {
       "type": "hero",
@@ -35,7 +36,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>With a focus on quality and design, we curate products that enhance your everyday.</p>",
+            "text": "<p>With a focus on quality and design, we curate products that enhance your whole life.</p>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -64,6 +65,7 @@
       ],
       "name": "t:names.hero",
       "settings": {
+        "link": "",
         "open_in_new_tab": false,
         "media_type_1": "image",
         "media_type_2": "image",
@@ -213,6 +215,7 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
+                "link": "",
                 "open_in_new_tab": false,
                 "content_direction": "column",
                 "vertical_on_mobile": true,
