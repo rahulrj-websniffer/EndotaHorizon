@@ -36,7 +36,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>With a focus on quality and design, we curate products that enhance your whole life.</p>",
+            "text": "<p>With a focus on quality and design, we curate products that enhance your whole </p>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
