@@ -108,7 +108,7 @@
                   "type": "text",
                   "name": "Heading",
                   "settings": {
-                    "text": "<h2>Join the club</h2>",
+                    "text": "<h2>Join </h2>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
