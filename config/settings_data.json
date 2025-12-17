@@ -78,6 +78,11 @@
         "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
         "disabled": false,
         "settings": {}
+      },
+      "17927225063130601129": {
+        "type": "shopify://apps/tt-breadcrumbs-seo-schema/blocks/ttSchema/dda6b26d-4f1a-43c6-a94b-6443ed0f750b",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
