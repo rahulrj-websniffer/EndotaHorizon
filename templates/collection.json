@@ -12,6 +12,10 @@
     "section": {
       "type": "section",
       "blocks": {
+        "tt_breadcrumbs_seo_schema_breadcrumb_section_mXy4PL": {
+          "type": "shopify://apps/tt-breadcrumbs-seo-schema/blocks/breadcrumbSection/dda6b26d-4f1a-43c6-a94b-6443ed0f750b",
+          "settings": {}
+        },
         "text_tqQTNE": {
           "type": "text",
           "name": "Collection title",
@@ -66,6 +70,7 @@
         }
       },
       "block_order": [
+        "tt_breadcrumbs_seo_schema_breadcrumb_section_mXy4PL",
         "text_tqQTNE",
         "text_twGGkJ"
       ],
