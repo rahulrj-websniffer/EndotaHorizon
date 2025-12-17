@@ -91,6 +91,58 @@
         "padding-block-end": 48
       }
     },
+    "176597318985bf6dae": {
+      "type": "_blocks",
+      "blocks": {
+        "simple_breadcrumb_breadcrumb_7yd3ay": {
+          "type": "shopify://apps/simple-breadcrumb/blocks/breadcrumb/72abe039-63af-4862-822d-d042976a1a4f",
+          "settings": {
+            "color_scheme": "accent-1",
+            "seperator": "raquo",
+            "custom_seperator": "",
+            "home_label": "Home",
+            "products_label": "Products",
+            "products_url": "shopify://collections/all",
+            "padding": 16,
+            "font_size": 100,
+            "align_center": false,
+            "uppercase": false,
+            "disable_wrap": false,
+            "page_width": true
+          }
+        }
+      },
+      "block_order": [
+        "simple_breadcrumb_breadcrumb_7yd3ay"
+      ],
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 12,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "color_scheme": "",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
+    },
     "product_list_NxRXLB": {
       "type": "product-list",
       "blocks": {
@@ -1628,6 +1680,7 @@
   },
   "order": [
     "hero_jVaWmY",
+    "176597318985bf6dae",
     "product_list_NxRXLB",
     "collection_list_wy3KFm",
     "hero_ajRd4n",
