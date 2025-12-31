@@ -90,6 +90,11 @@
         "settings": {
           "storefrontAccessToken": ""
         }
+      },
+      "10274677211107884116": {
+        "type": "shopify://apps/cbb-shipping-rates/blocks/app-embed-block/de9da91b-8d51-4359-81df-b8b0288464c7",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
